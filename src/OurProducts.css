@@ -1,0 +1,36 @@
+#Courses{
+    border-radius: 0px;
+    position: relative;
+    height: 1860px;
+    padding: 20px;
+    background-color: rgb(86, 6, 86);
+    overflow: hidden;
+  }
+  #Courses .desc{
+     width: 60%;
+     height: 250px;
+     margin: 10px auto 0px;
+     padding: 20px;
+    text-align: center;
+  }
+  #Courses .desc p{
+    color: rgb(220, 163, 20);
+    letter-spacing: 2px;
+    font-size: 30px;
+  }
+  #Courses .desc h2{
+    color:white;
+    letter-spacing: 2px;
+    font-size: 50px;
+  }
+  #Courses .separator{
+     width: 30%;
+     height: 5px;
+     background-color:rgb(210, 153, 11);
+     margin: 50px auto 0px;
+  } 
+  .cardDiv{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
